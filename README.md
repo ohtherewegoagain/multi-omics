@@ -70,5 +70,4 @@ Make a POST request with patient features:
 ## Contributor
 - **Avani Agarwal**
 
-## License
-This project is licensed under the MIT License.
+
